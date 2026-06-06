@@ -29,7 +29,9 @@ tests:
       imports:
         - thop
       pip_check: true
-      python_version: ${{ python_min }}.*
+      python_version:
+        - ${{ python_min }}.*
+        - "*"
 
 about:
   summary: Ultralytics THOP package for fast computation of PyTorch model FLOPs and parameters.
