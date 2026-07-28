@@ -147,4 +147,5 @@ Feedstock Maintainers
 =====================
 
 * [@carlodri](https://github.com/carlodri/)
+* [@glenn-jocher](https://github.com/glenn-jocher/)
 
