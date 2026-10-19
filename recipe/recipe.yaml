@@ -1,5 +1,5 @@
 context:
-  version: "2.2.2"
+  version: "2.2.3"
 
 package:
   name: ultralytics-thop
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/u/ultralytics-thop/ultralytics_thop-${{ version }}.tar.gz
-    sha256: 149a89c26c2be35b709fa25951f4644dea13d63017025569a193159a5908e3ed
+    sha256: 141cea7d1af7fda04b135b5070d19d84f2272c76c5401de9e47581c23e7c5c60
 
 build:
   number: 0
